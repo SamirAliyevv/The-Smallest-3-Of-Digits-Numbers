@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C# intro\The Smallest 3 Of Digits\The Smallest 3 Of Digits\obj\Debug\netcoreapp3.1\The Smallest 3 Of Digits.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C# intro\The Smallest 3 Of Digits\The Smallest 3 Of Digits\obj\Debug\netcoreapp3.1\The Smallest 3 Of Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C# intro\The Smallest 3 Of Digits\The Smallest 3 Of Digits\obj\Debug\netcoreapp3.1\The Smallest 3 Of Digits.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C# intro\The Smallest 3 Of Digits\The Smallest 3 Of Digits\obj\Debug\netcoreapp3.1\The Smallest 3 Of Digits.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C# intro\The Smallest 3 Of Digits\The Smallest 3 Of Digits\obj\Debug\netcoreapp3.1\The Smallest 3 Of Digits.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# intro\The Smallest 3 Of Digits\The Smallest 3 Of Digits\bin\Debug\netcoreapp3.1\The Smallest 3 Of Digits.exe
+C:\Users\ASUS\Desktop\C# intro\The Smallest 3 Of Digits\The Smallest 3 Of Digits\bin\Debug\netcoreapp3.1\The Smallest 3 Of Digits.deps.json
+C:\Users\ASUS\Desktop\C# intro\The Smallest 3 Of Digits\The Smallest 3 Of Digits\bin\Debug\netcoreapp3.1\The Smallest 3 Of Digits.runtimeconfig.json
+C:\Users\ASUS\Desktop\C# intro\The Smallest 3 Of Digits\The Smallest 3 Of Digits\bin\Debug\netcoreapp3.1\The Smallest 3 Of Digits.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C# intro\The Smallest 3 Of Digits\The Smallest 3 Of Digits\bin\Debug\netcoreapp3.1\The Smallest 3 Of Digits.dll
+C:\Users\ASUS\Desktop\C# intro\The Smallest 3 Of Digits\The Smallest 3 Of Digits\bin\Debug\netcoreapp3.1\The Smallest 3 Of Digits.pdb
+C:\Users\ASUS\Desktop\C# intro\The Smallest 3 Of Digits\The Smallest 3 Of Digits\obj\Debug\netcoreapp3.1\The Smallest 3 Of Digits.dll
+C:\Users\ASUS\Desktop\C# intro\The Smallest 3 Of Digits\The Smallest 3 Of Digits\obj\Debug\netcoreapp3.1\The Smallest 3 Of Digits.pdb
+C:\Users\ASUS\Desktop\C# intro\The Smallest 3 Of Digits\The Smallest 3 Of Digits\obj\Debug\netcoreapp3.1\The Smallest 3 Of Digits.genruntimeconfig.cache
